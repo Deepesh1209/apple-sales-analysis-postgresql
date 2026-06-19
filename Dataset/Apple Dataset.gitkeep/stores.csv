@@ -1,0 +1,77 @@
+store_id,store_name,city,country
+ST-1,Apple Fifth Avenue,New York,USA
+ST-2,Apple Union Square,San Francisco,USA
+ST-3,Apple Michigan Avenue,Chicago,USA
+ST-4,Apple The Grove,Los Angeles,USA
+ST-5,Apple South Coast Plaza,Costa Mesa,USA
+ST-6,Apple Scottsdale,Scottsdale,USA
+ST-7,Apple Mall of America,Bloomington,USA
+ST-8,Apple Eastview Mall,Victor,USA
+ST-9,Apple Lennox Town Center,Columbus,USA
+ST-10,Apple Tysons Corner,Tysons,USA
+ST-11,Apple Eaton Centre,Toronto,Canada
+ST-12,Apple Yorkdale,Toronto,Canada
+ST-13,Apple Square One,Mississauga,Canada
+ST-14,Apple Pacific Centre,Vancouver,Canada
+ST-15,Apple Chinook Centre,Calgary,Canada
+ST-16,Apple Rideau Centre,Ottawa,Canada
+ST-17,Apple West Edmonton Mall,Edmonton,Canada
+ST-18,Apple CF Sherway Gardens,Toronto,Canada
+ST-19,Apple Marunouchi,Tokyo,Japan
+ST-20,Apple Shibuya,Tokyo,Japan
+ST-21,Apple Orchard Road,Singapore,Singapore
+ST-22,Apple Regent Street,London,UK
+ST-23,Apple Covent Garden,London,UK
+ST-24,Apple Bluewater,Greenhithe,UK
+ST-25,Apple Munich,Munich,Germany
+ST-26,Apple Kurfürstendamm,Berlin,Germany
+ST-27,Apple Amsterdam,Amsterdam,Netherlands
+ST-28,Apple Champs-Élysées,Paris,France
+ST-29,Apple Lyon,Lyon,France
+ST-30,Apple Milan,Milan,Italy
+ST-31,Apple Dubai Mall,Dubai,UAE
+ST-32,Apple Mall of the Emirates,Dubai,UAE
+ST-33,Apple Barcelona,Barcelona,Spain
+ST-34,Apple Madrid,Madrid,Spain
+ST-35,Apple Zurich,Zurich,Switzerland
+ST-36,Apple Sydney,Sydney,Australia
+ST-37,Apple Melbourne,Melbourne,Australia
+ST-38,Apple Brisbane,Brisbane,Australia
+ST-39,Apple São Paulo,São Paulo,Brazil
+ST-40,Apple Rio de Janeiro,Rio de Janeiro,Brazil
+ST-41,Apple Mexico City,Mexico City,Mexico
+ST-42,Apple Santiago,Santiago,Chile
+ST-43,Apple Jakarta,Jakarta,Indonesia
+ST-44,Apple Kuala Lumpur,Kuala Lumpur,Malaysia
+ST-45,Apple Bangkok,Bangkok,Thailand
+ST-46,Apple Hong Kong,Hong Kong,China
+ST-47,Apple Beijing,Beijing,China
+ST-48,Apple Shanghai,Shanghai,China
+ST-49,Apple Chengdu,Chengdu,China
+ST-50,Apple Taipei,Taipei,Taiwan
+ST-51,Apple Seoul,Seoul,South Korea
+ST-52,Apple Mumbai,Mumbai,India
+ST-53,Apple New Delhi,New Delhi,India
+ST-54,Apple Ankara,Ankara,Turkey
+ST-55,Apple Istanbul,Istanbul,Turkey
+ST-56,Apple Doha,Doha,Qatar
+ST-57,Apple Riyadh,Riyadh,Saudi Arabia
+ST-58,Apple Manila,Manila,Philippines
+ST-59,Apple Ho Chi Minh City,Ho Chi Minh City,Vietnam
+ST-60,Apple Buenos Aires,Buenos Aires,Argentina
+ST-61,Apple Caracas,Caracas,Venezuela
+ST-62,Apple Lima,Lima,Peru
+ST-63,Apple Montevideo,Montevideo,Uruguay
+ST-64,Apple San José,San José,Costa Rica
+ST-65,Apple La Paz,La Paz,Bolivia
+ST-66,Apple Santo Domingo,Santo Domingo,Dominican Republic
+ST-67,Apple Birmingham,Birmingham,UK
+ST-68,Apple Manchester,Manchester,UK
+ST-69,Apple Sheffield,Sheffield,UK
+ST-70,Apple Newcastle,Newcastle,UK
+ST-71,Apple Leeds,Leeds,UK
+ST-72,Apple Bristol,Bristol,UK
+ST-73,Apple Cardiff,Cardiff,UK
+
+# Dictionary
+# Col1: 0="Apple Fifth Avenue"|1="Apple Union Square"|2="Apple Michigan Avenue"|3="Apple The Grove"|4="Apple South Coast Plaza"|5="Apple Scottsdale"|6="Apple Mall of America"|7="Apple Eastview Mall"|8="Apple Lennox Town Center"|9="Apple Tysons Corner"|10="Apple Eaton Centre"|11="Apple Yorkdale"|12="Apple Square One"|13="Apple Pacific Centre"|14="Apple Chinook Centre"|15="Apple Rideau Centre"|16="Apple West Edmonton Mall"|17="Apple CF Sherway Gardens"|18="Apple Marunouchi"|19="Apple Shibuya"|20="Apple Orchard Road"|21="Apple Regent Street"|22="Apple Covent Garden"|23="Apple Bluewater"|24="Apple Munich"|25="Apple Kurfürstendamm"|26="Apple Amsterdam"|27="Apple Champs-Élysées"|28="Apple Lyon"|29="Apple Milan"|30="Apple Dubai Mall"|31="Apple Mall of the Emirates"|32="Apple Barcelona"|33="Apple Madrid"|34="Apple Zurich"|35="Apple Sydney"|36="Apple Melbourne"|37="Apple Brisbane"|38="Apple São Paulo"|39="Apple Rio de Janeiro"|40="Apple Mexico City"|41="Apple Santiago"|42="Apple Jakarta"|43="Apple Kuala Lumpur"|44="Apple Bangkok"|45="Apple Hong Kong"|46="Apple Beijing"|47="Apple Shanghai"|48="Apple Chengdu"|49="Apple Taipei"|50="Apple Seoul"|51="Apple Mumbai"|52="Apple New Delhi"|53="Apple Ankara"|54="Apple Istanbul"|55="Apple Doha"|56="Apple Riyadh"|57="Apple Manila"|58="Apple Ho Chi Minh City"|59="Apple Buenos Aires"|60="Apple Caracas"|61="Apple Lima"|62="Apple Montevideo"|63="Apple San José"|64="Apple La Paz"|65="Apple Santo Domingo"|66="Apple Birmingham"|67="Apple Manchester"|68="Apple Sheffield"|69="Apple Newcastle"|70="Apple Leeds"|71="Apple Bristol"|72="Apple Cardiff"
